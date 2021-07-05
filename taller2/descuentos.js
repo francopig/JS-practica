@@ -1,10 +1,21 @@
-const precioOriginal = 100,
-      descuento      = 15,
-      porcentajePrecioConDescuento = 100 - descuento;
-
 const calcularPrecioConDescuento = (precio, descuento) => (precio-((precio*descuento)/100));
 console.log(calcularPrecioConDescuento(500,10));//450
 
+//agregamos la opcion de descuento por cupones:
+// const coupons = [
+//   {
+//     name: "cupon1",
+//     discount: 15,
+//   },
+//   {
+//     name: "cupon2",
+//     discount: 20,
+//   },
+//   {
+//     name: "cupon3",
+//     discount: 30,
+//   },
+// ];
 
 
 function onClickButtonPriceDiscount(){

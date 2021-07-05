@@ -14,3 +14,13 @@
 - Implementar las fórmulas en JS
 - Crear Funciones
 - Integrar JS con HTML
+
+## Taller #3: Promedio, mediana y moda
+
+  - Definir las fórmulas
+  - Implementar las fórmulas en JS
+  - Crear Funciones
+  -Integrar JS con HTML
+
+
+## Taller #4:
